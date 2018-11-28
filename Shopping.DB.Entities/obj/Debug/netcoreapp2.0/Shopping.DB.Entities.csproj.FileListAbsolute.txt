@@ -1,0 +1,12 @@
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\bin\Debug\netcoreapp2.0\Shopping.DB.Entities.deps.json
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\bin\Debug\netcoreapp2.0\Shopping.DB.Entities.dll
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\bin\Debug\netcoreapp2.0\Shopping.DB.Entities.pdb
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\bin\Debug\netcoreapp2.0\Shopping.Core.dll
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\bin\Debug\netcoreapp2.0\Shopping.Core.pdb
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\obj\Debug\netcoreapp2.0\Shopping.DB.Entities.csprojResolveAssemblyReference.cache
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\obj\Debug\netcoreapp2.0\Shopping.DB.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\obj\Debug\netcoreapp2.0\Shopping.DB.Entities.AssemblyInfoInputs.cache
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\obj\Debug\netcoreapp2.0\Shopping.DB.Entities.AssemblyInfo.cs
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\obj\Debug\netcoreapp2.0\Shopping.DB.Entities.csproj.CopyComplete
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\obj\Debug\netcoreapp2.0\Shopping.DB.Entities.dll
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.DB.Entities\obj\Debug\netcoreapp2.0\Shopping.DB.Entities.pdb

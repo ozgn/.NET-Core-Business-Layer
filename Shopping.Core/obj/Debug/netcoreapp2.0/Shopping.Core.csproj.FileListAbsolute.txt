@@ -1,0 +1,9 @@
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\bin\Debug\netcoreapp2.0\Shopping.Core.deps.json
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\bin\Debug\netcoreapp2.0\Shopping.Core.dll
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\obj\Debug\netcoreapp2.0\Shopping.Core.csprojResolveAssemblyReference.cache
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\obj\Debug\netcoreapp2.0\Shopping.Core.csproj.CoreCompileInputs.cache
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\obj\Debug\netcoreapp2.0\Shopping.Core.AssemblyInfoInputs.cache
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\obj\Debug\netcoreapp2.0\Shopping.Core.AssemblyInfo.cs
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\bin\Debug\netcoreapp2.0\Shopping.Core.pdb
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\obj\Debug\netcoreapp2.0\Shopping.Core.dll
+C:\Users\ozgun\Source\Repos\Shopping\Shopping.Core\obj\Debug\netcoreapp2.0\Shopping.Core.pdb

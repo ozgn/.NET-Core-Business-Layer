@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Shopping.DAL\Shopping.DAL.csproj" />
+    <ProjectReference Include="..\Shopping.DB.Entities\Shopping.DB.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

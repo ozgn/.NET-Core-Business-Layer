@@ -1,0 +1,74 @@
+.sass-cache/
+*.css.map
+
+# Assets/css/
+# Assets/js/
+
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+Contact GitHub API Training Shop Blog About
+
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+*.suo
+
+*.user
+
+*.ide
+
+*.lock
+
+.vs
+.vs/
+.vs/*
+.vs/**
+*.vs/
+
+node_modules/
+Shopping/node_modules/
+Shopping/Media/arsiv/
+Shopping/App_Data/cache/*
+Shopping/App_Data/cache/**
+Shopping/App_Data/Logs/*
+Shopping/App_Data/Logs/**
+Shopping/App_Data/Models/*
+Shopping/App_Data/Models/**
+Shopping/obj/*
+Shopping/obj/**
+Shopping/App_Data/TEMP/*
+Shopping/App_Data/TEMP/**
+Shopping/App_Data/umbraco.config
+
+# Shopping/Shopping.csproj
+
+Shopping/bin/Shopping.dll
+Shopping/bin/Shopping.pdb
