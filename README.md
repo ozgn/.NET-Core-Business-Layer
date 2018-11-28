@@ -1,4 +1,6 @@
-      --------------------------------------------------.NET-Core-Business-Layer--------------------------------------------------
+.NET-Core-Business-Layer
+
+
 AA .net core project with business architecture (Northwind DB)
 
 
