@@ -66,7 +66,6 @@ Shopping/obj/*
 Shopping/obj/**
 Shopping/App_Data/TEMP/*
 Shopping/App_Data/TEMP/**
-Shopping/App_Data/umbraco.config
 
 # Shopping/Shopping.csproj
 
