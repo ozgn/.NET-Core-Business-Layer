@@ -1,7 +1,7 @@
 .NET-Core-Business-Layer
 
 
-AA .net core project with business architecture (Northwind DB)
+A .net core project with business architecture (Northwind DB)
 
 
 
